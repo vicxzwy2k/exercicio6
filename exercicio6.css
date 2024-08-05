@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1{
+    text-align: center;
+} 
+
+.quadro{
+    display: flex;
+    justify-content: center;
+}
+
+.rbd img {
+    width: 200px;
+}
+
+.rbd {
+    background-color: #9d0208;
+    padding: 30px;
+    margin: 20px;
+}
+
+.nome{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
